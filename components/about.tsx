@@ -27,18 +27,16 @@ export default function About() {
           <p className="mb-6">
             I am a <strong className="text-white">Computer Science & Engineering</strong> student specializing in 
             <strong className="text-white"> AI & Machine Learning</strong>, currently pursuing my B.Tech in India.
+            I'm deeply interested in technology and how it can be used to solve real-world problems.
           </p>
 
           <p className="mb-6">
-            My programming journey is deeply rooted in <strong className="text-white">Competitive Programming</strong>. 
-            I enjoy the challenge of solving complex algorithmic problems using <strong className="text-white">C++</strong>, 
-            constantly pushing myself to write more efficient and optimized code.
+            I actively explore AI/ML, contribute to open-source projects, and enjoy competitive programming to sharpen my problem-solving skills.
+            I believe in learning by building, experimenting, and staying consistent.
           </p>
 
           <p>
-            When I'm not solving problems on Codeforces, I focus on building scalable applications using 
-            <strong className="text-white"> Python and Next.js</strong>. I am also an active open-source contributor, 
-            passionate about giving back to the community that helped me learn.
+            I'm always curious about new technologies and open to collaborating on meaningful projects.
           </p>
         </motion.div>
 
