@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Github, Linkedin, Mail, Code2 } from "lucide-react";
+import { Github, Linkedin, Mail, Code2, Instagram } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
@@ -52,6 +52,9 @@ export default function Hero() {
         </Link>
         <Link href="https://www.linkedin.com/in/sathya-vuppala/" target="_blank" className="hover:text-white transition-colors">
           <Linkedin className="h-6 w-6" />
+        </Link>
+        <Link href="https://www.instagram.com/sathya_vuppala" target="_blank" className="hover:text-white transition-colors">
+          <Instagram className="h-6 w-6" />
         </Link>
         <Link href="mailto:sathyavuppala08@gmail.com" className="hover:text-white transition-colors">
           <Mail className="h-6 w-6" />
