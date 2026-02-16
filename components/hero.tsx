@@ -53,7 +53,7 @@ export default function Hero() {
         <Link href="https://www.linkedin.com/in/sathya-vuppala/" target="_blank" className="hover:text-white transition-colors">
           <Linkedin className="h-6 w-6" />
         </Link>
-        <Link href="mailto:your@email.com" className="hover:text-white transition-colors">
+        <Link href="mailto:sathyavuppala08@gmail.com" className="hover:text-white transition-colors">
           <Mail className="h-6 w-6" />
         </Link>
         <Link href="https://codeforces.com/profile/man-of-game" target="_blank" className="hover:text-white transition-colors">
