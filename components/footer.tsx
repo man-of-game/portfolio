@@ -1,6 +1,6 @@
 "use client";
 
-import { Github, Linkedin, Mail, Code2 } from "lucide-react";
+import { Github, Linkedin, Mail, Code2, Instagram } from "lucide-react";
 import Link from "next/link";
 
 export default function Footer() {
@@ -24,6 +24,9 @@ export default function Footer() {
           </Link>
           <Link href="https://linkedin.com" target="_blank" className="hover:text-white transition-colors">
             <Linkedin className="h-6 w-6" />
+          </Link>
+          <Link href="https://www.instagram.com/sathya_vuppala" target="_blank" className="hover:text-white transition-colors">
+            <Instagram className="h-6 w-6" />
           </Link>
           <Link href="mailto:sathyavuppala08@gmail.com" className="hover:text-white transition-colors">
             <Mail className="h-6 w-6" />
