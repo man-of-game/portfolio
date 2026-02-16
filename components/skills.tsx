@@ -5,14 +5,10 @@ import { motion } from "framer-motion";
 const skills = [
   "C++",
   "Python",
-  "Next.js",
-  "TypeScript",
-  "React",
-  "Tailwind CSS",
-  "Google Cloud",
-  "TensorFlow",
+  "SQL",
+  "HTML, CSS",
+  "Java",
   "Git",
-  "VS Code",
 ];
 
 export default function Skills() {
